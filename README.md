@@ -1,5 +1,4 @@
-# Git_Practice - Pizza Edition
-
+# Git_Practice - Pizza and Dosa Edition
 
 ## About
 This repo is for practicing Git and pull requests.
