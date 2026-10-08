@@ -13,5 +13,3 @@ Testing
 
 ## Biryani
 Chicken Biryani is $10
-
-restore
