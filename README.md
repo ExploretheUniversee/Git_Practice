@@ -1,4 +1,4 @@
-# Git_Practice
+# Git_Practice - Pizza Edition
 
 
 ## About
